@@ -1,5 +1,5 @@
 {
-  "id": "./",
+  "id": "/meal-photo-importer/",
   "name": "過去食事写真インポーター",
   "short_name": "食事写真",
   "lang": "ja",
@@ -10,25 +10,25 @@
   "theme_color": "#163e37",
   "icons": [
     {
-      "src": "./food-photo-20261006-192.png",
+      "src": "icons/icon-192-v20261011.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./food-photo-20261006-512.png",
+      "src": "icons/icon-512-v20261011.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./food-photo-20261006-maskable-192.png",
+      "src": "icons/icon-maskable-192-v20261011.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./food-photo-20261006-maskable-512.png",
+      "src": "icons/icon-maskable-512-v20261011.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
